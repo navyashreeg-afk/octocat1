@@ -1,1 +1,1 @@
-# octocat1
+Fix README typo
